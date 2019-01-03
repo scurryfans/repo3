@@ -13,5 +13,8 @@ public class test {
             System.out.println(i);
             i -= 5;
         }
+
+
+        System.out.println("哈喽小金毛");
     }
 }
